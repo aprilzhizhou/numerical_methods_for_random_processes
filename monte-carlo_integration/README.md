@@ -8,5 +8,5 @@ as well as the corresponding standard deviation sdt$(\hat{I})$ and the average $
 as a function of $M = 4^p$ (or $p$).
 
 1. `main1a` evaluates $\int_0^\infty \cos x e^{-x} dx$
-2. `main1a` evaluates $\int_0^\infty x^{-\alpha} e^{-x} dx$
-1. `main1a` evaluates $\int_0^{x_{max}}  x^{-\alpha} e^{-x} dx$ with $\alpha = \frac{3}{4}$ and $x_{max} = 2.$
+2. `main1b` evaluates $\int_0^\infty x^{-\alpha} e^{-x} dx$
+1. `main1c` evaluates $\int_0^{x_{max}}  x^{-\alpha} e^{-x} dx$ with $\alpha = \frac{3}{4}$ and $x_{max} = 2.$
