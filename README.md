@@ -3,3 +3,4 @@
 Projects include:
 
 1. Gillespie algorithm for the SIR models 
+2. Monte-Carlo integration
